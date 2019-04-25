@@ -1,4 +1,4 @@
-def using_times(phrase)
+def using_times()
 
 
 end
